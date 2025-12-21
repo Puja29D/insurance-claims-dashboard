@@ -1,5 +1,18 @@
 # Insurance-claims-dashboard
-A data analytics project built using Power BI to analyze 10,000+ insurance records, providing insights into claim status, premium and coverage distribution, customer demographics, age-based claim trends, and active vs inactive policies through interactive visualizations.
+## ❓ Problem Statement
+Insurance companies handle large volumes of policy and claims data, making it difficult to track claim performance, customer behavior, and policy effectiveness using raw data alone.  
+The absence of centralized and interactive reporting limits timely decision-making and insight generation.
+
+The objective of this project is to build an interactive Power BI dashboard that analyzes insurance claims and policy data to:
+- Monitor claim status and trends
+- Evaluate premium and coverage distribution
+- Understand customer demographics and age-based claim behavior
+- Track active and inactive policies
+
+This dashboard enables stakeholders to make informed, data-driven decisions efficiently.
+
+
+
 ## 🏢 Project Overview
 This project focuses on analyzing insurance policy and claims data using **Power BI** to derive meaningful business insights.  
 The interactive dashboard helps understand claim trends, premium and coverage distribution, customer demographics, and policy activity status, enabling data-driven decision-making for insurance companies.
